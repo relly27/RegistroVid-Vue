@@ -32,7 +32,7 @@ export default {
     },
     methods: {
         handleLogin() {
-            if (this.username === "Admin" && this.password === "1234") {
+            if (this.username === "Admin" && this.password === "Fund4b1t#2025") {
                 Swal.fire({
                     title: "¡Inicio exitoso!",
                     icon: "success",
