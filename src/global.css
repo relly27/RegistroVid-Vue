@@ -1,0 +1,7 @@
+/* Archivo global.css o directamente en tu main.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Asegura que el padding y borde no afecten el tamaño total */
+  }
+  
