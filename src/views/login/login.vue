@@ -100,6 +100,7 @@ export default {
 
 .form-input-material input {
     color: white;
+    width: 100%;
 }
 
 .login-form {
